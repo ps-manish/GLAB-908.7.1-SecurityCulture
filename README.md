@@ -44,4 +44,4 @@ Physical home: Installing and maintaining security cameras, alarms, and other de
 
 1. Create a cybersecurity-themed crossword puzzle or word search for your friends or colleagues to solve. Use terms related to security culture, password management, access control, incident response plans, risk assessments, third-party management, and physical security.
 
-2. Imagine if you are builging your own house and how these modules would corelate to actual physical objects in the house
+2. Imagine if you are building your own house and how these modules would corelate to actual physical objects in the house
