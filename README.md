@@ -40,6 +40,6 @@ Security culture: Measures to secure physical assets and prevent unauthorized ac
 Physical home: Installing and maintaining security cameras, alarms, and other devices to deter burglars and detect unauthorized access. <br>
 
 
-##Fun Activity
+## Fun Activity
 
 Create a cybersecurity-themed crossword puzzle or word search for your friends or colleagues to solve. Use terms related to security culture, password management, access control, incident response plans, risk assessments, third-party management, and physical security.
