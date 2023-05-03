@@ -38,3 +38,8 @@ Physical home: Vetting and monitoring contractors, cleaners, and other service p
 ### Physical Security
 Security culture: Measures to secure physical assets and prevent unauthorized access to sensitive areas. <br>
 Physical home: Installing and maintaining security cameras, alarms, and other devices to deter burglars and detect unauthorized access. <br>
+
+
+##Fun Activity
+
+Create a cybersecurity-themed crossword puzzle or word search for your friends or colleagues to solve. Use terms related to security culture, password management, access control, incident response plans, risk assessments, third-party management, and physical security.
