@@ -1,1 +1,33 @@
 
+## Incident: 
+An incident refers to any security breach or event that compromises the confidentiality, integrity, or availability of information or systems. A strong security culture emphasizes the importance of promptly identifying, reporting, and responding to incidents to mitigate their impact.
+
+## Response: 
+Response in the context of security culture relates to the actions taken in response to a security incident or breach. It involves following predefined incident response procedures, such as containing the incident, investigating the root cause, and implementing measures to prevent similar incidents in the future.
+
+## Access: 
+Access, in terms of security culture, pertains to controlling and managing the permissions and privileges granted to individuals or entities to access systems, applications, or data. It involves implementing appropriate authentication mechanisms, authorization controls, and access management practices to ensure that only authorized individuals have access to sensitive information.
+
+## Control:
+Control refers to the measures and mechanisms implemented to safeguard systems, data, and resources. In the context of security culture, control practices encompass the establishment of security policies, procedures, and technical controls to protect against unauthorized access, data breaches, or other security risks.
+
+## Third Party:
+Third party, in relation to security culture, refers to external entities or individuals that have access to an organization's systems, networks, or data. Managing third-party relationships involves assessing their security practices, conducting due diligence, and establishing contractual agreements to ensure the protection of sensitive information shared with them.
+
+## Management: 
+Management, in the context of security culture, refers to the practices and strategies employed by an organization to oversee and govern security-related activities. It involves setting security objectives, allocating resources, establishing policies, and providing guidance to employees to ensure the effective implementation of security controls and practices.
+
+## Physical Security:
+Physical security encompasses the measures and controls put in place to protect physical assets, facilities, and resources from unauthorized access, theft, damage, or other physical risks. In a security culture, physical security practices are important to safeguard physical infrastructure and prevent unauthorized access to sensitive areas.
+
+## Risk Assessment:
+Risk assessment is the process of identifying, analyzing, and evaluating potential risks and vulnerabilities within an organization's systems, processes, or environment. It involves assessing the likelihood and impact of threats to determine appropriate risk mitigation strategies and controls. A security culture promotes regular risk assessments to proactively identify and address security risks.
+
+## Culture:
+Culture refers to the shared values, attitudes, behaviors, and practices within an organization. In the context of security culture, it involves fostering a mindset of security awareness, responsibility, and accountability across all levels of the organization. A strong security culture promotes a collective effort to prioritize security, encourages employees to report potential risks, and ensures security becomes an integral part of daily operations.
+
+## Password:
+Passwords play a crucial role in security culture as they serve as a primary form of authentication for accessing systems, applications, or data. Effective password management practices, such as using strong and unique passwords, regularly updating them, and safeguarding them against unauthorized disclosure, are essential for maintaining security and preventing unauthorized access.
+
+## Cybersecurity:
+Cybersecurity refers to the protection of computer systems, networks, and data from cyber threats, including unauthorized access, data breaches, malware, and other malicious activities. In a security culture, cybersecurity practices encompass a wide range of preventive measures, detection mechanisms, incident response procedures, and ongoing security awareness and training initiatives to mitigate cyber risks and protect sensitive information.
